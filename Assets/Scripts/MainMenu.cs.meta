@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d120882b92020544bad8ddfd67145269
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FrenchFlagTile: {fileID: 2800000, guid: 876acf8a671e9ff4b9438e4d8e5def4a, type: 3}
+  - UKFlagTile: {fileID: 2800000, guid: 440ba2be916b756468fa3e0a36e8a7bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
